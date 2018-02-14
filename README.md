@@ -1,0 +1,1 @@
+## My first RSpec method ##
